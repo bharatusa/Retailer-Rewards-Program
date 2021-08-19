@@ -9,6 +9,7 @@ Make up a data set to best demonstrate your solution
 
 
 ###To Run this project locally
+
 ```shell
 $ git clone https://github.com/bharatusa/Retailer-Rewards-Program.git
 $ mvn spring-boot: run
